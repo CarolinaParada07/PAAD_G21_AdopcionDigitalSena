@@ -43,7 +43,7 @@ Adicionalmente, la escasa cultura de formación digital en la población colombi
 
 Para hallar una solución, hemos compilado datos de cobertura educativa regional, información de cobertura virtual del SENA, indicadores de habilidades digitales de MINTIC e información de conectividad privada de Ookla. Mediante la consolidación de estos datos y la aplicación del algoritmo K-medias (el cual detallaremos posteriormente), pretendemos proporcionar la base para el diseño de estrategias que optimicen la oferta educativa virtual del SENA, permitiendo la creación de intervenciones adaptadas a las particularidades de cada región.
 
-## Solución e Impacto 
+## Propuesta de valor y Resultados
 
 Consideramos que la clasificación por clusters de los departamentos del país permite reconocer patrones en comportamientos específicos por región, tales como: (Niveles de interés real en acceso a educación virtual, necesidades de infraestructura o conectividad para desarrollar eficientemente los programas educativos, preferencias tematicas o sectoriales por formaciones académicas especifica, entre otros). 
 
@@ -54,6 +54,13 @@ Por otro lado, el SENA lograría convertirse en la institución de educación pu
 Para generar una segmentación departamental basada en los índices disponibles, se consideraron dos algoritmos de clustering: K-means: y DBSCAN
 La técnica de calibración y optimización del modelo utilizada para encontrar los mejores hiperparámetos es GridSearch y El principal criterio de selección fue la capacidad de cada algoritmo para adaptarse a los datos disponibles y generar agrupaciones relevantes. A partir Silhouette Score validamos la coherencia de los grupos, evaluando la similitud de cada punto con aquellos que pertenecen a su mismo cluster.
 El resultado de la experimentación y calibración arrojó un modelo de Kmeans que segmenta la información en 9 agrupaciones  con un Silouette score de 0.16 (zona de aceptación).
+
+## Dashboard - Adopción Digital 
+
+Tablero: [Dashboard - Adopción digital por departamentos](https://lookerstudio.google.com/reporting/30ea9b0b-af30-4292-8a12-193cff8c6e32/page/p_ixlwkaapsd)
+
+Manual de Usuario: [Manual de usuario.pdf](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/blob/main/Manual%20del%20usuario.pdf)
+
 
 ## Características 
 
