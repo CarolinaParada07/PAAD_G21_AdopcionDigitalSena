@@ -13,9 +13,6 @@ Jinneth Carolina Parada Amaya
 
 Video Presentación:
 
-Prototipo - Talero:
+Prototipo - Tablero: https://lookerstudio.google.com/reporting/30ea9b0b-af30-4292-8a12-193cff8c6e32/page/p_ixlwkaapsd
 
-Manual de Usuario: 
-
-
-
+Manual de Usuario: https://docs.google.com/document/d/1UDl0hDbt75zHOfzzsWDXOeiFTxu7DylRkLhqIG7jxb8/edit?usp=sharing
