@@ -1,5 +1,5 @@
 ## PAAD 2025
-# Grupo 21 Adopcion Digital Sena
+# Grupo 21 Adopción Digital Sena
 
 ## Integrantes:
 
@@ -17,11 +17,19 @@ Tablero: [Dashboard - Adopción digital por departamentos](https://lookerstudio.
 
 Manual de Usuario: [Manual de usuario.pdf](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/blob/main/Manual%20del%20usuario.pdf)
 
+Repositorio: [Github - G21 Adopción digital por departamentos](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/tree/main)
+
 ## Otros Entregables:
 
 Prototipo Fachada: [Visualización en MIRO del prototipo](https://miro.com/app/board/uXjVIGoVpIs=/)  Versión en PDF [Prototipo Fachada.pdf](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/blob/main/MIAD%20-%20PAAD%20-%20PAPER%20PROTOTYPE.pdf)
 
 Tabla de requerimientos: [Tabla de requerimientos.pdf](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/blob/main/Tabla%20de%20requerimientos.pdf)
+
+Reporte técnico: [Reporte técnico de selección e implementación de modelos.pdf](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/blob/main/Grupo%2021%20-%20REPORTE%20TE%CC%81CNICO%20SELECCIO%CC%81N%20E%20IMPLEMENTACIO%CC%81N%20DE%20MODELOS.pdf)
+
+Repositorio de Datos: [Datos](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/tree/main/Data)
+
+Repositorio de Códigos: [Códigos](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/tree/main/Codigos)
 
 ## Introducción:
 
