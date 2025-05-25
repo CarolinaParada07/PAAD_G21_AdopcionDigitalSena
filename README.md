@@ -11,9 +11,9 @@ Jinneth Carolina Parada Amaya
 
 ## Principales Enlaces
 
-Video Presentación: https://youtu.be/kWAqvUXTq8c
+Video Presentación: [PAAD 2025 - Grupo 21 Adopción Digital con fines educativos por departamentos de Colombia - Sena](https://youtu.be/kWAqvUXTq8c)
 
-Tablero: https://lookerstudio.google.com/reporting/30ea9b0b-af30-4292-8a12-193cff8c6e32/page/p_ixlwkaapsd
+Tablero: [Dashboard - Adopción digital por departamentos](https://lookerstudio.google.com/reporting/30ea9b0b-af30-4292-8a12-193cff8c6e32/page/p_ixlwkaapsd)
 
 Manual de Usuario: https://docs.google.com/document/d/1UDl0hDbt75zHOfzzsWDXOeiFTxu7DylRkLhqIG7jxb8/edit?usp=sharing
 
