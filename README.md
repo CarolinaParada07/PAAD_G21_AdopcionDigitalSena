@@ -15,11 +15,11 @@ Video Presentación: [PAAD 2025 - Grupo 21 Adopción Digital con fines educativ
 
 Tablero: [Dashboard - Adopción digital por departamentos](https://lookerstudio.google.com/reporting/30ea9b0b-af30-4292-8a12-193cff8c6e32/page/p_ixlwkaapsd)
 
-Manual de Usuario: https://docs.google.com/document/d/1UDl0hDbt75zHOfzzsWDXOeiFTxu7DylRkLhqIG7jxb8/edit?usp=sharing
+Manual de Usuario: [Manual de usuario.pdf](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/blob/main/Manual%20del%20usuario.pdf)
 
 ## Otros Entregables:
 
-Prototipo Fachada: https://miro.com/app/board/uXjVIGoVpIs=/  Versión en PDF [Prototipo Fachada.pdf](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/blob/main/MIAD%20-%20PAAD%20-%20PAPER%20PROTOTYPE.pdf)
+Prototipo Fachada: [Visualización en MIRO del prototipo](https://miro.com/app/board/uXjVIGoVpIs=/)  Versión en PDF [Prototipo Fachada.pdf](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/blob/main/MIAD%20-%20PAAD%20-%20PAPER%20PROTOTYPE.pdf)
 
 Tabla de requerimientos: [Tabla de requerimientos.pdf](https://github.com/CarolinaParada07/PAAD_G21_AdopcionDigitalSena/blob/main/Tabla%20de%20requerimientos.pdf)
 
