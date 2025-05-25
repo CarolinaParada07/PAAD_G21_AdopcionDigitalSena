@@ -11,7 +11,7 @@ Jinneth Carolina Parada Amaya
 
 ### Principales Enlaces
 
-Video Presentación:
+Video Presentación: https://youtu.be/kWAqvUXTq8c
 
 Prototipo - Tablero: https://lookerstudio.google.com/reporting/30ea9b0b-af30-4292-8a12-193cff8c6e32/page/p_ixlwkaapsd
 
